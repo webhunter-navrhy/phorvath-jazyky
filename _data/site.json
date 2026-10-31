@@ -1,0 +1,55 @@
+{
+  "slug": "phorvath-jazyky",
+  "nazev": "Peter Horváth",
+  "url": "https://webhunter-navrhy.github.io/phorvath-jazyky/",
+  "base": "/phorvath-jazyky/",
+  "lang": "sk",
+  "popis": "Súkromný učiteľ anglického a slovenského jazyka v Bratislave. Individuálne, párové a firemné kurzy, obchodná a právnická angličtina. Úvodná hodina zdarma.",
+  "navrh": true,
+  "domena": "",
+  "og_image": "og.jpg",
+  "logo": "logo.png",
+  "theme_color": "#1e293b",
+  "typ": "LocalBusiness",
+  "ico": "",
+  "kontakt": {
+    "email": "info@phorvath.sk",
+    "telefon": "+421 948 900 726",
+    "adresa": {
+      "ulice": "",
+      "psc": "",
+      "mesto": "Bratislava",
+      "zeme": "SK"
+    }
+  },
+  "oteviraci_doba": [],
+  "sameas": [],
+  "cenove_rozpeti": "",
+  "formular": {
+    "endpoint": "",
+    "demo": true,
+    "predmet": "Dopyt z webu"
+  },
+  "nav": [
+    {
+      "text": "O mne",
+      "href": "#o-mne"
+    },
+    {
+      "text": "Kurzy",
+      "href": "#kurzy"
+    },
+    {
+      "text": "Cenník",
+      "href": "#cennik"
+    },
+    {
+      "text": "Referencie",
+      "href": "#referencie"
+    },
+    {
+      "text": "Kontakt",
+      "href": "#kontakt"
+    }
+  ]
+}

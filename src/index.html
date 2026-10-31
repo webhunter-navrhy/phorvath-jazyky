@@ -1,0 +1,106 @@
+{% extends "_base.html" %}
+{% set titulek = 'Peter Horváth – súkromný učiteľ angličtiny a slovenčiny v Bratislave' %}
+{% set cesta = '' %}
+{% block obsah %}
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <p class="stitok">Súkromný učiteľ anglického a slovenského jazyka · Bratislava</p>
+      <h1>Jazyk, ktorý <span class="opravne">naozaj používate</span></h1>
+      <p class="uvod">Volám sa Peter Horváth. Učím angličtinu a slovenčinu dospelých aj deti, individuálne, v pároch aj vo firmách. Špecializujem sa na obchodnú a právnickú angličtinu.</p>
+      <p class="akcie"><a class="tlacitko" href="#kontakt">Úvodná hodina zdarma</a><a class="odkaz" href="#kurzy">Pozrieť kurzy</a></p>
+    </div>
+    {{ img('peter.jpg', 'Peter Horváth, súkromný učiteľ angličtiny a slovenčiny', sizes='(min-width: 56rem) 26rem, 80vw', cls='hero-foto') }}
+  </div>
+  <div class="wrap">
+    <aside class="zosit zosit-pruh" aria-label="Ako prebieha hodina">
+      <p class="zosit-hl">Na čom si dávam záležať</p>
+      <ul role="list">
+        <li><strong>Prirodzená výučba.</strong> Gramatika a slovná zásoba sa rozvíjajú v komunikácii.</li>
+        <li><strong>Reálna konverzácia.</strong> Témy z bežného života, práce aj aktuálneho diania.</li>
+        <li><strong>Jasný systém.</strong> Každá hodina má štruktúru, cieľ a nadväznosť.</li>
+        <li><strong>Cielené vzdelávanie.</strong> Obsah podľa úrovne, potrieb a cieľov klienta.</li>
+      </ul>
+    </aside>
+  </div>
+</section>
+
+<section class="sekce" id="o-mne">
+  <div class="wrap dva">
+    <div class="o-mne-lava">
+      <h2>O mne</h2>
+      <p class="pravnik">Právnické vzdelanie a angličtina v jednom: Peter učí aj obchodnú a právnickú angličtinu.</p>
+    </div>
+    <div class="text">
+      <p>Profesionálnej výučbe angličtiny a slovenčiny sa venujem od roku 2007, keď som absolvoval štátnu skúšku z anglického jazyka a literatúry a získal cambridgeský certifikát CPE (C2). V angličtine som študoval aj podnikanie, manažment a právo; v dizertačnej práci som sa venoval téme „Trendy vo výučbe obchodnej a právnej angličtiny“.</p>
+      <p>Vzdelával som sa aj v metodike výučby cudzích jazykov a zložil som cambridgeskú skúšku pre učiteľov angličtiny (Cambridge Teaching Knowledge Test). Pracoval som v jazykových školách a inštitúciách ako lektor angličtiny a slovenčiny, neskôr ako školiteľ učiteľov slovenčiny pre cudzincov.</p>
+      <p>Dnes sa venujem výhradne súkromným a firemným klientom a som zakladateľom Akadémie právnickej angličtiny. Hodiny skladám z najlepších prvkov viacerých metodík, podľa toho, čo klient potrebuje.</p>
+    </div>
+  </div>
+</section>
+
+<section class="sekce tinta" id="kurzy">
+  <div class="wrap">
+    <h2>Ponuka kurzov</h2>
+    <p class="podnadpis">Kurzy prispôsobujem potrebám klienta, každý je navrhnutý na maximálnu efektivitu učenia a flexibilitu v čase.</p>
+    <ol class="kurzy" role="list">
+      {% for s in data.sluzby %}
+      <li>
+        <h3>{{ s.nazev }}</h3>
+        <p>{{ s.popis }}</p>
+        {% if s.get("pocet") %}<p class="pocet"><span class="sr-only">Počet účastníkov: </span>{{ s.pocet }} {{ 'účastník' if s.pocet == '1' else ('účastníci' if s.pocet == '2' else 'účastníkov') }}</p>{% endif %}
+      </li>
+      {% endfor %}
+    </ol>
+  </div>
+</section>
+
+<section class="sekce" id="cennik">
+  <div class="wrap">
+    <h2>Cenník</h2>
+    <div class="ceny">
+      {% for blok in data.cennik.hlavny %}
+      <div class="cennik-blok">
+        <h3>{{ blok.nazev }}</h3>
+        <table>
+          <caption class="sr-only">{{ blok.nazev }}</caption>
+          <tbody>
+          {% for r in blok.riadky %}<tr><th scope="row">{{ r[0] }}</th><td class="suma">{{ r[1] }}</td><td class="cas">/ {{ r[2] }}</td></tr>{% endfor %}
+          </tbody>
+        </table>
+      </div>
+      {% endfor %}
+    </div>
+    <p class="poznamka">Prvú hodinu si môžete vyskúšať zadarmo: ukážem Vám, ako hodiny prebiehajú, a potom sa rozhodnete, či sa pustíme do spolupráce.</p>
+  </div>
+</section>
+
+<section class="sekce tinta" id="referencie">
+  <div class="wrap">
+    <h2>Čo hovoria klienti</h2>
+    {% for r in data.referencie if r.get("hlavny") %}
+    <figure class="hlavny-citat"><blockquote><p>{{ r.t }}</p></blockquote><figcaption>{{ r.k }}</figcaption></figure>
+    {% endfor %}
+    <div class="citaty">
+      {% for r in data.referencie if not r.get("hlavny") %}
+      <figure><blockquote><p>{{ r.t }}</p></blockquote><figcaption>{{ r.k }}</figcaption></figure>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="sekce kontakt" id="kontakt">
+  <div class="wrap dva">
+    <div>
+      <h2>Vyskúšajte si úvodnú hodinu zdarma</h2>
+      <p>Napíšte mi, akú angličtinu alebo slovenčinu potrebujete, a dohodneme sa na termíne.</p>
+      <ul role="list" class="kontakty">
+        <li><a href="mailto:{{ site.kontakt.email }}">{{ site.kontakt.email }}</a></li>
+        <li><a href="tel:{{ site.kontakt.telefon|replace(' ', '') }}">{{ site.kontakt.telefon }}</a></li>
+        <li>Bratislava, online alebo u klienta</li>
+      </ul>
+    </div>
+    <div>{% include "_formular.html" %}</div>
+  </div>
+</section>
+{% endblock %}

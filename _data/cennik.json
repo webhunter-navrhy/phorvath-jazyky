@@ -1,0 +1,34 @@
+{
+  "hlavny": [
+    {
+      "nazev": "Všeobecná angličtina a slovenčina",
+      "riadky": [
+        [
+          "Online alebo v priestoroch lektora v Bratislave",
+          "75 €",
+          "60 min"
+        ],
+        [
+          "Osobne v priestoroch klienta v Bratislave",
+          "90 €",
+          "60 min"
+        ]
+      ]
+    },
+    {
+      "nazev": "Obchodná a právnická angličtina",
+      "riadky": [
+        [
+          "Online alebo v priestoroch lektora v Bratislave",
+          "90 €",
+          "60 min"
+        ],
+        [
+          "Osobne v priestoroch klienta v Bratislave",
+          "110 €",
+          "60 min"
+        ]
+      ]
+    }
+  ]
+}

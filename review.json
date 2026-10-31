@@ -1,0 +1,16 @@
+{
+  "znamka": 7,
+  "slabiny": [
+    "O mne (PC i mobil): všechny minulé výtky jsou opravené, ale věta „V angličtine som študoval aj podnikanie, manažment a právo“ v brief.json není. Oprava: doplnit ji do briefu se zdrojovou URL z phorvath.sk, nebo ji smazat. Na PC má levý sloupec jen h2 a krátký perex a vedle stojí hustý blok tří odstavců. Oprava: zarovnat oba sloupce nahoru a pravý text zúžit asi na 60 znaků na řádek.",
+    "Hero (PC 1440): pruh se 4 body „Na čom si dávam záležať“ je teď pod hero, jak bylo chtěno, ale přetíná ho spodní okraj obrazovky a text ve sloupcích je drobný (asi 13 px) a nahuštěný. Oprava: zmenšit spodní odsazení hero, aby byl pruh na 1440×900 vidět celý, zvětšit text bodů na 15–16 px a přidat mezery mezi sloupci.",
+    "Kontakt a Cenník (mobil 390): v kontaktu je jen e-mail, i když brief má telefon +421 948 900 726. V Cenníku se popis „Online alebo v priestoroch lektora v Bratislave“ láme vedle ceny na 3 řádky. Oprava: do Kontaktu doplnit klikací telefon (tel:) a „Bratislava, online alebo u klienta“. V Cenníku na mobilu dát cenu pod popis na samostatný řádek a popis nechat přes celou šířku."
+  ],
+  "zavazne": [],
+  "silne": [
+    "Všech 5 minulých výtek je opravených. Fakta v O mne jsou teď v brief.json se zdrojem. U Skupinových, Detských a Obchodných kurzů počty zmizely. Zkrácené citáty mají „…“ na místě střihu. Portrét je v hero (na mobilu hned pod perexem) a box je pod hero jako vodorovný pruh se 4 sloupci.",
+    "Web drží brand klienta: logo vlevo, modrá #046bd2, růžový akcent #cb2b83 z jeho webu a tmavá #1e293b. Typografie Young Serif + Figtree má jasnou hierarchii a háčky jsou v pořádku.",
+    "Ceny v Cenníku sedí přesně s webem (75/90 € a 90/110 €). Reference jsou skutečné citáty a velký úvodní citát nese důvěryhodnost. QA nenašla žádné přetečení na 6 šířkách, stránka má 0,12 MB a nabídka hodiny zdarma je vidět v hero i v kontaktu."
+  ],
+  "verdikt": "Opravy kola jsou splněné a závažná vada nezůstala. Web je čistý, pravdivý a v brandu klienta, jen pořád působí trochu šablonovitě a textově. Do 8 chybí doplnit nebo smazat nedoloženou větu o studiu, vyladit pruh pod hero a doplnit telefon do Kontaktu.",
+  "_hash": "88d955eb109beecbaeab26b61fb2af0bd31c0e3e"
+}

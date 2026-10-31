@@ -1,0 +1,24 @@
+[
+  {
+    "nazev": "Individuálne kurzy",
+    "pocet": "1",
+    "popis": "Výučba zameraná presne na to, čo klient potrebuje: všeobecný alebo odborný jazyk, konverzácia alebo príprava na certifikáty. Pri dlhodobej spolupráci odporúčam jedno stretnutie týždenne, hodiny sú pripravené na mieru."
+  },
+  {
+    "nazev": "Kurzy pre dvoch",
+    "pocet": "2",
+    "popis": "Na hodine sú dvaja účastníci s podobnou úrovňou, takže konverzácia je pestrejšia a náklady nižšie. Odporúčam jedno dlhšie alebo dve kratšie stretnutia týždenne."
+  },
+  {
+    "nazev": "Skupinové kurzy",
+    "popis": "Prebiehajú najmä vo firmách. Hodia sa tým, ktorí už jazyk ovládajú a chcú si precvičiť konverzáciu, prelomiť komunikačné bariéry alebo sa jazyku venujú ako záľube."
+  },
+  {
+    "nazev": "Výučba pre deti a tínedžerov",
+    "popis": "Individuálne aj skupinovo: celkové zdokonaľovanie, príprava na certifikáty alebo pomoc s jazykom v škole. Príprava na certifikáty dáva pevný základ aj pocit konkrétneho úspechu."
+  },
+  {
+    "nazev": "Obchodná a právnická angličtina",
+    "popis": "Špecializované kurzy zamerané na konkrétne situácie, ako sú obchodné stretnutia alebo právne konzultácie, pre sebavedomý a presný prejav."
+  }
+]

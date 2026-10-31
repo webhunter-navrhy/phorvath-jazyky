@@ -1,0 +1,325 @@
+{
+ "slug": "phorvath-jazyky",
+ "zdroj_url": "https://phorvath.sk/",
+ "firma": "Peter Horváth",
+ "obor": [
+  "sport a výuka",
+  "právo a poradenství"
+ ],
+ "ico": "",
+ "ares": null,
+ "kontakty": {
+  "emaily": [
+   "info@phorvath.sk"
+  ],
+  "telefony": [
+   "+421 948 900 726"
+  ],
+  "adresa": "",
+  "socialni_site": []
+ },
+ "logo": {
+  "soubor": "podklady/logo.png",
+  "zdroj": "https://phorvath.sk/wp-content/uploads/2024/03/image.png",
+  "rozmery": [
+   102,
+   102
+  ]
+ },
+ "barvy": {
+  "css_promenne": {
+   "e-global-color-astglobalcolor0": "#046bd2",
+   "e-global-color-astglobalcolor1": "#045cb4",
+   "e-global-color-astglobalcolor2": "#1e293b",
+   "e-global-color-astglobalcolor3": "#334155",
+   "e-global-color-astglobalcolor4": "#F0F5FA",
+   "e-global-color-astglobalcolor5": "#FFFFFF",
+   "e-global-color-astglobalcolor6": "#D1D5DB",
+   "e-global-color-astglobalcolor7": "#111111",
+   "e-global-color-astglobalcolor8": "#111111",
+   "e-global-color-primary": "#CB2B83",
+   "e-global-color-secondary": "#854ECA",
+   "e-global-color-text": "#BEBFC4",
+   "e-global-color-accent": "#424242",
+   "e-global-color-a434f6c": "#FDFDFD",
+   "e-global-color-da63c0f": "#131629",
+   "e-global-color-e3266ed": "#DBE3F1"
+  },
+  "z_css": [
+   "#0274be",
+   "#cb2b83",
+   "#854eca",
+   "#ffdd00",
+   "#d9534f",
+   "#ff6900"
+  ],
+  "z_loga": [],
+  "theme_color": null,
+  "doporucene": [
+   "#046bd2",
+   "#045cb4",
+   "#0274be",
+   "#cb2b83"
+  ]
+ },
+ "fotky": [
+  {
+   "soubor": "podklady/foto/foto-01.jpg",
+   "url": "https://phorvath.sk/wp-content/uploads/elementor/thumbs/business-people-shaking-hands-together-qm1lrfbics48qye8km78navgz9q74l4l41r2uo6je4.jpg",
+   "sirka": 1000,
+   "vyska": 350,
+   "alt": "Business people shaking hands together"
+  },
+  {
+   "soubor": "podklady/foto/foto-02.jpg",
+   "url": "https://phorvath.sk/wp-content/uploads/2024/03/image0-768x1041.jpeg",
+   "sirka": 768,
+   "vyska": 1041,
+   "alt": ""
+  }
+ ],
+ "fakta": [
+  {
+   "typ": "h3",
+   "text": "PETER HORVÁTH",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "h1",
+   "text": "Profesionálna výučba anglického a slovenského jazyka",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Peter Horváth",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Na čom si dávam špeciálne záležať",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Ponuka kurzov",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Vyskúšajte si ukážkovú\nhodinu zdarma",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Klienti",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Firemní klienti",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Kurzy Individuálne kurzy Kurzy pre dvoch Skupinové kurzy Výučba pre deti a teenagerov Obchodná a právnická angličtina",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Individuálne kurzy Kurzy pre dvoch Skupinové kurzy Výučba pre deti a teenagerov Obchodná a právnická angličtina",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Kurzy pre dvoch Skupinové kurzy Výučba pre deti a teenagerov Obchodná a právnická angličtina",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Skupinové kurzy Výučba pre deti a teenagerov Obchodná a právnická angličtina",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Výučba pre deti a teenagerov Obchodná a právnická angličtina",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Volám sa Peter Horváth a pracujem ako súkromný učiteľ anglického a slovenského jazyka. Ponúkam všeobecné jazykové kurzy pre dospelých aj deti, od individuálnej až po skupinovú formu výučby. Špecializujem sa tiež na obchodnú a právnickú angličtinu.",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Gramatika a slovná zásoba sú rozvíjané prirodzene v komunikácii. Dôraz sa kladie na praktické používanie jazyka a istotu v prejave.",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Hodiny sú vedené tak, aby klient aktívne komunikoval. Témy vychádzajú z bežného života, práce aj aktuálneho diania.",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Pri výučbe sa využívajú kvalitné a autentické materiály – články, videá, audio nahrávky či odborné texty podľa zamerania klienta.",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Každá hodina má svoju štruktúru, cieľ a nadväznosť. Klient presne vie, na čom pracuje a kam sa posúva.",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Dôraz sa kladie na správnosť, prirodzenosť a presné vyjadrovanie v hovorenom aj písomnom prejave.",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Obsah výučby sa prispôsobuje úrovni, potrebám a cieľom klienta – od všeobecnej angličtiny až po odborné jazykové programy",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Ponúkam širokú škálu kurzov prispôsobených individuálnym potrebám klientov. Sú tu individuálne kurzy pre osobný rast, skupinové kurzy pre kolektívne učenie vo firmách, a kurzy pre dvoch pre tých, ktorí preferujú učenie sa v páre. Každý kurz je navrhnutý s ohľadom na maximálnu efektivitu učenia a flexibility v čase.",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Najefektívnejšia výučba jazyka zameraná presne na to, čo klient potrebuje. Klient si môže vybrať, čo chce študovať. Na výber má všeobecný alebo špecializovaný jazyk, konverzácie alebo prípravu na certifikáty. Individuálne hodiny sú najlepší a najrýchlejší spôsob napredovania v jazyku. Pri dlhodobej systematickej spolupráci odporúčam jedno stretnutie týždenne. Klientovi pripravujem hodiny úplne na mieru, preto nie je nutné hodiny navštevovať vo zvýšenej intenzite a navyšovať náklady na výučbu. Zvýšenú intenzitu odporúčam, keď klient potrebuje urobiť veľmi veľký pokrok za krátky čas.",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Od individuálnych kurzov sa odlišujú tým, že na hodine sú dvaja účastníci. Skupina dvoch účastníkov taktiež umožňuje pestrejšie precvičovanie konverzácie s človekom, ktorý je na podobnej jazykovej úrovni. Vhodné sú pre tých, ktorí sa necítia na hodine dobre sami alebo si chcú znížiť náklady spojené s výučbou. Pri dlhodobej systematickej spolupráci odporúčam jedno dlhšie stretnutie, prípadne dve kratšie stretnutia týždenne.",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Prebiehajú najmä vo firmách, nesporná výhoda je, že v jednom čase sa vzdeláva väčšie množstvo ľudí. Odporúčam najmä tým, ktorí už cudzí jazyk vedia a potrebujú si precvičiť konverzáciu, prelomiť komunikačné bariéry alebo sú len radi v kontakte s jazykom a majú ho ako svoju záľubu.",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Ak sa potrebujete zlepšiť v jazyku práva alebo obchodu, ponúkam špecializované kurzy zamerané na obchodnú a právnickú angličtinu. S individuálnym prístupom a zameraním na konkrétne situácie, ako sú obchodné stretnutia alebo právne konzultácie, Vám poskytnem nástroje na sebavedomé a presné vyjadrovanie. Zlepšite svoju odbornú angličtinu a komunikujte s istotou vo Vašom profesijnom živote.",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Aby ste vedeli pre seba porovnať pomer ceny a kvality, vyskúšajte si úvodnú hodinu zdarma. Ukážem vám, ako hodiny prebiehajú a ako sa spolu budeme učiť. Po absolvovaní skúšobnej hodiny sa rozhodnete, či sa pustíme do spolupráce.",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "“Petra odporúčame ako odborne zdatného lektora či už na všeobecnú ale i odbornú angličtinu.”",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "“S Dr. Horváthom spolupracujeme už dva roky, pracuje pre nás ako lektor všeobecnej aj právnickej angličtiny a sme nadmieru spokojní, jeho právnické vzdelanie má pre nás veľkú pridanú hodnotu. Vyskúšali sme veľa lektorov aj jazykových škôl, no nikdy sme neboli s právnickou angličtinou takí spokojní.”",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "“Najviac si na Petrovi vážim jeho osobitý prínos, hodiny sú poučné, zaujímavé, nenudím sa a vždy sa niečo naučím. Naša firma s ním spolupracuje už vyše 10 rokov.”",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "“S pánom Horváthom sme začali spoluprácu v roku 2008, učí v našej firme všeobecnú angličtinu a vyhotovuje pre nás preklady, občasne ho využívame aj na tlmočenia. Sme veľmi spokojní s profesionalitou jeho služieb”.",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "“Peter vyučuje angličtinu celú našu rodinu, sme nadmieru spokojní, pod jeho vedením si deti urobili aj Cambridgeské certifikáty, ďakujeme mu, že nás všetkých posunul na úplne inú úroveň v jazyku.”",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "“Pochádzam z Francúzska a na Slovensko som prišiel v roku 2007. Ihneď som sa začal učiť po slovensky, no hodiny mi prišli veľmi ťazkopádne a nudné. Keď som začal spolupracovať s Petrom, všetko sa zmenilo a od vtedy sa na hodiny teším, spolupracujeme od roku 2015 a posunul som sa až na úroveň C1.”",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "“Peter vyučuje v našej spolčnosti obchodnú a právnickú angličtinu. Mali sme predtým mnoho lektorov, Peter je neporovnateľne lepší, tým, že má prehľad aj o biznise a práve, sú hodiny zaujímavé, vie sa pýtať otázky fundovane a diskutovať s našimi odborníkmi na rôzne témy z biznisu.”",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "“Peter učí mňa a moju manželku slovenčinu už niekoľko rokov, od kedy sme sa prisťahovali na Slovensko. Roky sa raz týždenne stretávame a vždy sa tešíme, že sa príjemne porozprávame a niečo sa naučíme.”",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "“S pánom Horváthom spolupracujem len zopár mesiacov, no od prvej hodiny mi sadol jeho štýl výučby, vysvetľovania gramatiky, pestrosť učebných materiálov, odporúčam všetkým.”",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "“Metóda výučby, ktorú Peter využíva, je zaujímavá, teším sa na hodiny anglického jazyka, sú\nlogicky usporiadané, nadväzujú na seba a individuálmy prístup, ktorý Peter používa mi umožňuje\nnapredovať progresívne v znalosti anglického jazyka jednak pre osobné účely, ale primáre k\nrozvoju komunikácie v anglickom jazyku v mojom pracovnom živote. “",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "“Mal som troch učiteľov angličtiny, Peter je môj štvrtý. Než sme začali spolupracovať, zdala sa mi cena hodín privysoká, ale hneď som pochopil prečo. Moderné hodiny, skutočný záujem lektora o témy o ktorých sa bavíme, precíznosť v gramatike”.",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "“Zanietenosť a inovatívny prístup pána Petra Horvátha, ako aj pestrosť učebných materiálov dokázali premeniť nutnosť na zábavu a oddych uprostred uponáhľaného pracovného dňa. Som s jeho prácou veľmi spokojná a kurzy s ním každému vrelo odporúčam.”",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Všeobecná angličtina a slovenčina Online výučba a výučba v priestoroch lektora v Bratislave 75 € / 60 minút Osobná výučba v priestoroch klienta v Bratislave 90 € / 60 minút",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Obchodná a právnická angličtina Online výučba a výučba v priestoroch lektora v Bratislave 90 € / 60 minút Osobná výučba v priestoroch klienta v Bratislave 110 € / 60 minút",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Kurzy Individuálne kurzy Kurzy pre dvoch Skupinové kurzy Výučba pre deti a teenagerov Obchodná a právnická angličtina",
+   "zdroj": "https://phorvath.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Profesionálnej výučbe angličtiny a slovenčiny sa venujem od roku 2007, keď som absolvoval štátnu skúšku z anglického jazyka a literatúry a získal cambridgeský certifikát CPE (C2).",
+   "zdroj": "https://phorvath.sk/ (sekcia O mne, úvodná stránka)"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Vo svojej dizertačnej práci som sa venoval téme „Trendy vo výučbe obchodnej a právnej angličtiny“.",
+   "zdroj": "https://phorvath.sk/ (sekcia O mne, úvodná stránka)"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Absolvoval cambridgeskú skúšku pre učiteľov anglického jazyka – Cambridge Teaching Knowledge Test.",
+   "zdroj": "https://phorvath.sk/ (sekcia O mne, úvodná stránka)"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Pracoval v jazykových školách a inštitúciách ako lektor angličtiny a slovenčiny, neskôr ako školiteľ učiteľov slovenčiny pre cudzincov.",
+   "zdroj": "https://phorvath.sk/ (sekcia O mne, úvodná stránka)"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Je zakladateľom Akadémie právnickej angličtiny.",
+   "zdroj": "https://phorvath.sk/ (sekcia O mne, úvodná stránka)"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Okrem samotného štúdia jazykov som v angličtine študoval aj ďalšie oblasti, ktoré ma zaujímajú – podnikanie, manažment a právo.",
+   "zdroj": "https://phorvath.sk/ (sekcia O mne, úvodná stránka)"
+  }
+ ],
+ "chybi": [
+  "IČO",
+  "fotky firmy/provozu/produktů (nalezeno 2, potřeba aspoň 6)",
+  "adresa / provozovna",
+  "potvrzení služeb a ceníku (nic nevymýšlet)"
+ ],
+ "popis_webu": "Pracujem ako súkromný učiteľ anglického a slovenského jazyka. Ponúkam Vám všeobecné kurzy pre dospelých a deti, od individuálnej až po skupinovú formu"
+}
